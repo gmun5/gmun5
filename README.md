@@ -17,7 +17,7 @@ My academic background in Information Systems and Supply Chain Management, with 
 |-----------------------------------------------|----------------------------|
 | Vulnerability Identification & Risk Assessment          | <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>|
 | SQL Data Querying & Filtering | <a href="https://github.com/gmun5/Applying-Filters-to-SQL-queries/tree/main">Applying Filters to SQL queries</a>|
-| Linux Access Control         | SOC Automation Lab|
+| Linux Access Control         | <a href="https://github.com/gmun5/File-Permissions-in-Liunx/tree/main">File Permissions in Liunx</a>|
 
 ## Tools
 
@@ -48,7 +48,7 @@ My academic background in Information Systems and Supply Chain Management, with 
 ## Projects
 - <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>
 - <a href="https://github.com/gmun5/Applying-Filters-to-SQL-queries/tree/main">Applying Filters to SQL queries</a>
-- File Permissions in Liunx
+- <a href="https://github.com/gmun5/File-Permissions-in-Liunx/tree/main">File Permissions in Liunx</a>
 
 <!--
 **gmun5/gmun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
