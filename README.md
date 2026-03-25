@@ -16,7 +16,7 @@ My academic background in Information Systems and Supply Chain Management, with 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Identification & Risk Assessment          | <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>|
-| SQL Data Querying & Filtering | <a href="https://google.com">Detection Lab</a>|
+| SQL Data Querying & Filtering | <a href="https://github.com/gmun5/Applying-Filters-to-SQL-queries/tree/main">Applying Filters to SQL queries</a>|
 | Linux Access Control         | SOC Automation Lab|
 
 ## Tools
@@ -47,7 +47,7 @@ My academic background in Information Systems and Supply Chain Management, with 
 
 ## Projects
 - <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>
-- Applying Filters to SQL queries
+- <a href="https://github.com/gmun5/Applying-Filters-to-SQL-queries/tree/main">Applying Filters to SQL queries</a>
 - File Permissions in Liunx
 
 <!--
