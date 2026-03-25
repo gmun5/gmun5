@@ -15,12 +15,9 @@ My academic background in Information Systems and Supply Chain Management, with 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Auditing          | <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Vulnerability Identification & Risk Assessment          | <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>|
+| SQL Data Querying & Filtering | <a href="https://google.com">Detection Lab</a>|
+| Linux Access Control         | SOC Automation Lab|
 
 ## Tools
 
