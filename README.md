@@ -49,7 +49,7 @@ My academic background in Information Systems and Supply Chain Management, with 
 </div>
 
 ## Projects
-- Cybersecurity Audit for Family Service of the Piedmont
+- <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>
 
 <!--
 **gmun5/gmun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
