@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 
 
-My journey in information systems and supply chain management has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My academic background in Information Systems and Supply Chain Management, with a concentration in Cybersecurity, has provided me with a strong foundation in the field, and I am eager to begin my career in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
