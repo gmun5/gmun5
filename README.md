@@ -27,15 +27,15 @@ My journey in information systems and supply chain management has led me to deve
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-5BC0EB?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### Programming & Scripting
 <div>
     <img src="https://img.shields.io/badge/-Python-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux(Bash)-000000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-003366?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20(Bash)-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ### Frameworks & Compliance
@@ -44,18 +44,12 @@ My journey in information systems and supply chain management has led me to deve
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project## Hi there 👋
+- Cybersecurity Audit for a real organization
 
 <!--
 **gmun5/gmun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
