@@ -47,6 +47,8 @@ My academic background in Information Systems and Supply Chain Management, with 
 
 ## Projects
 - <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>
+- Applying Filters to SQL queries
+- File Permissions in Liunx
 
 <!--
 **gmun5/gmun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
