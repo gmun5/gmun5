@@ -15,7 +15,7 @@ My academic background in Information Systems and Supply Chain Management, with 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Identification & Risk Assessment          | <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont/tree/main">Cybersecurity Audit for Family Service of the Piedmont</a>|
+| Vulnerability Identification & Risk Assessment          | <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont.git">Cybersecurity Audit for Family Service of the Piedmont</a>|
 | SQL Data Querying & Filtering | <a href="https://github.com/gmun5/Applying-Filters-to-SQL-queries.git">Applying Filters to SQL queries</a>|
 | Linux Access Control         | <a href="https://github.com/gmun5/File-Permissions-in-Liunx.git">File Permissions in Liunx</a>|
 | Log Analysis & Threat Detection | <a href="https://github.com/gmun5/SOC-Detection-Lab-Password-Spraying.git">SOC Detection Lab: Password Spraying</a>|
