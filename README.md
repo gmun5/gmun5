@@ -18,7 +18,10 @@ My academic background in Information Systems and Supply Chain Management, with 
 | Vulnerability Identification & Risk Assessment          | <a href="https://github.com/gmun5/Cybersecurity-Audit-for-Family-Service-of-the-Piedmont.git">Cybersecurity Audit for Family Service of the Piedmont</a>|
 | SQL Data Querying & Filtering | <a href="https://github.com/gmun5/Applying-Filters-to-SQL-queries.git">Applying Filters to SQL queries</a>|
 | Linux Access Control         | <a href="https://github.com/gmun5/File-Permissions-in-Liunx.git">File Permissions in Liunx</a>|
-| Log Analysis & Threat Detection | <a href="https://github.com/gmun5/SOC-Detection-Lab-Password-Spraying.git">SOC Detection Lab: Password Spraying</a>|
+| SIEM Log Analysis & Threat Detection | <a href="https://github.com/gmun5/SOC-Detection-Lab-Password-Spraying.git">SOC Detection Lab: Password Spraying</a>|
+| Network Traffic Analysis & Threat Detection | <a href="https://github.com/gmun5/SOC-Detection-Lab-Snort-IDS-with-ICMP-SYN-Scan-Brute-Force-Analysis.git">SOC Detection Lab: Snort IDS Traffic Analysis (ICMP, SYN Scan, and SSH Brute Force)</a>|
+
+
 ## Tools
 
 
@@ -26,13 +29,14 @@ My academic background in Information Systems and Supply Chain Management, with 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-5BC0EB?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-DAA520?style=for-the-badge&logo=snort&logoColor=white" />
 </div>
 
 ### Programming & Scripting
 <div>
     <img src="https://img.shields.io/badge/-Python-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-003366?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux%20(Bash)-000000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ### Frameworks & Compliance
@@ -50,7 +54,7 @@ My academic background in Information Systems and Supply Chain Management, with 
 - <a href="https://github.com/gmun5/Applying-Filters-to-SQL-queries.git">Applying Filters to SQL queries</a>
 - <a href="https://github.com/gmun5/File-Permissions-in-Liunx.git">File Permissions in Liunx</a>
 - <a href="https://github.com/gmun5/SOC-Detection-Lab-Password-Spraying.git">SOC Detection Lab: Password Spraying</a>
-
+- <a href="https://github.com/gmun5/SOC-Detection-Lab-Snort-IDS-with-ICMP-SYN-Scan-Brute-Force-Analysis.git">SOC Detection Lab: Snort IDS Traffic Analysis (ICMP, SYN Scan, and SSH Brute Force)</a>
 <!--
 **gmun5/gmun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
